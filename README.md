@@ -24,6 +24,6 @@
 
 <div align="right" >
   <a href="https://www.linkedin.com/in/marcosandrebueno" target="_blank"><img height="23em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
-  <a href="https://github.com/MarcosAndreBueno?tab=repositories" target="_blank"><img height="23em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <a href="https://github.com/MarcosAndreBueno?tab=repositories" target="_blank"><img height="23em" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="18"/>
   </a>    
 </div>
