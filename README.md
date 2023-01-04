@@ -1,16 +1,29 @@
-### Hi there 👋
+#### Languages:
+<div>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="18" />
+  <img src="https://img.shields.io/badge/SQL-%20?style=flat-square&logo=mysql&logoColor=white&color=01004d" height="18"/>
+  <img src="https://img.shields.io/badge/PYTHON-%20?style=flat-square&logo=python&logoColor=white&color=130342" height="18"/>
+  
+</div>
 
-<!--
-**MarcosAndreBueno/MarcosAndreBueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Learning Frameworks:
+<div>
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" height="18" />
+</div>
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAndreBueno&repo=github-readme-stats" />
+  </a>
+</div>
+  
+<br />
+<br />
+
+<div align="right" >
+  <a href="https://www.linkedin.com/in/marcosandrebueno" target="_blank"><img height="23em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+  <a href="https://github.com/MarcosAndreBueno?tab=repositories" target="_blank"><img height="23em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  </a>    
+</div>
