@@ -15,7 +15,7 @@
 
 <div>
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAndreBueno&repo=github-readme-stats" />
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MarcosAndreBueno&repo=github-readme-stats" />
   </a>
 </div>
   
