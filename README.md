@@ -9,7 +9,10 @@
 #### Learning Frameworks:
 <div>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" height="18" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="18" />
 </div>
+
+
 
 ##
 
