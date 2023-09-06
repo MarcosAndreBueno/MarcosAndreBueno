@@ -24,10 +24,9 @@ https://marcosandrebueno.github.io/portfolio/
 
 ## Github Status
 
-<div>
-  <a>
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MarcosAndreBueno&repo=github-readme-stats" />
-  </a>
+<div align="center">
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MarcosAndreBueno&theme=gotham&show_icons=true&hide_border=true&count_private=false"/> 
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAndreBueno&theme=gotham&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 ## Redes
